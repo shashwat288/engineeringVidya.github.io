@@ -48,7 +48,7 @@
 }
 .card-image0{
   grid-area: image;
-  background: url("/Firstyear/Maths.jpg");
+  background: url("Firstyear/Maths.jpg");
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
@@ -58,7 +58,7 @@
 }
 .card-image1 {
   grid-area: image;
-  background: url("/Firstyear/chemistry.jpg");
+  background: url("Firstyear/chemistry.jpg");
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
@@ -68,7 +68,7 @@
 }
 .card-image2 {
   grid-area: image;
-  background: url("/Firstyear/physics.jpg");
+  background: url("Firstyear/physics.jpg");
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
@@ -78,7 +78,7 @@
 }
 .card-image3{
   grid-area: image;
-  background: url("/Firstyear/Electrical.jpg");
+  background: url("Firstyear/Electrical.jpg");
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
@@ -88,7 +88,7 @@
 }
 .card-image4 {
   grid-area: image;
-  background: url("/Firstyear/mechainics.jpg");
+  background: url("Firstyear/mechainics.jpg");
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
@@ -98,7 +98,7 @@
 }
 .card-image5 {
   grid-area: image;
-  background: url("/Firstyear/pexels-nothing-ahead-4440715.jpg");
+  background: url("Firstyear/pexels-nothing-ahead-4440715.jpg");
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
